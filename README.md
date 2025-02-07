@@ -9,4 +9,3 @@ The **Customer Banking System** is a Python-based application that allows users 
 - The **updated balance** is displayed after interest is applied.
 - Supports multiple account types.
 
-## Files and Structure
